@@ -1,0 +1,8 @@
+C:\Users\adadeloy\source\repos\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.deps.json
+C:\Users\adadeloy\source\repos\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.dll
+C:\Users\adadeloy\source\repos\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.pdb
+C:\Users\adadeloy\source\repos\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.AssemblyInfoInputs.cache
+C:\Users\adadeloy\source\repos\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.AssemblyInfo.cs
+C:\Users\adadeloy\source\repos\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.dll
+C:\Users\adadeloy\source\repos\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.pdb
+C:\Users\adadeloy\source\repos\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.csprojAssemblyReference.cache
